@@ -3,7 +3,7 @@
 ## Aktivasi Relay
 Relay defaultnya tidak terhubung ke GPIO. Pasang Relay ke GPIO 15 agar relay bisa dkontrol oleh pin GPIO15  yang  ada di esp8266
 ## Cara download
-![](https://github.com/hwthinker/esp8266-relay1ch-AC/blob/main/picture/2.png)
+![](https://github.com/hwthinker/esp8266-relay1ch-AC/blob/main/picture/02.png)
 - Lepas Semua Sambungan Power supply
 - Pastikan jumper relay sudah terpasang ke GPIO15 (!Penting)
 - Pasang serial USB TTL dengan ketentuan RX -> TX USB Serial ; TX -> RX USB Serial; GND -> GND USB Serial; pasang 5V -> 5V USB serial 
