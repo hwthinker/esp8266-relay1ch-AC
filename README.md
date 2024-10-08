@@ -15,4 +15,4 @@ Relay defaultnya tidak terhubung ke GPIO. Pasang Relay ke GPIO 15 agar relay bis
 - tekan dan lepas tombol reset untuk run-program
 - ulang langkah awal untuk download ulang
 ## Source code
-source code alat ini bisa di cek di [sini] (https://github.com/hwthinker/esp8266-relay1ch-AC/blob/main/src/main.cpp)
+source code alat ini bisa di cek di [Lihat file main.cpp di sini](https://github.com/hwthinker/esp8266-relay1ch-AC/blob/main/src/main.cpp)
