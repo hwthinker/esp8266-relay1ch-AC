@@ -1,5 +1,8 @@
-# Modul ESP8266 ESP-12f Relay 1 Channel  10A AC
+# Modul ESP8266 ESP-12F Relay 1 Channel 10A AC 220V
+
 ![1](./assets/1.png)
+
+Board ESP8266 (ESP-12F) dengan satu relay 10A, langsung disuplai dari AC 220V (tidak perlu adaptor DC terpisah) — cocok untuk kontrol saklar lampu atau peralatan rumah tangga lewat WiFi. Relay dikendalikan lewat GPIO 15, tapi **butuh jumper manual** (lihat bagian Aktivasi Relay) karena tidak tersambung ke GPIO secara default.
 
 ## Cara install plugin Arduino IDE
 
