@@ -1,5 +1,22 @@
 # Modul ESP8266 ESP-12F Relay 1 Channel 10A AC 220V
 
+<!-- hwthinker-store-links -->
+
+## Beli boardnya & tutorial lengkap
+
+**Board yang dipakai di repo ini tersedia di HwThinker Store:**
+
+- [Modul Relay 1 Channel ch 1ch WIFI ESP-12F ESP8266 AC 220V power IOT](https://hwthinker.com/produk/f5232312-de93-4de5-a70f-79ab7cfd9ade)
+
+**Tutorial lengkap — langkah bergambar, troubleshooting, dan kode yang sudah diuji:**
+
+- [Modul ESP8266 Relay 1 Channel 10A AC 220V — Setup Arduino IDE](https://hwthinker.com/tutorials/esp8266-relay-1ch-ac)
+
+Butuh bantuan pemasangan? Sapa kami lewat live chat di [hwthinker.com](https://hwthinker.com) — barang dikirim dari Surabaya, sudah diuji sebelum dikemas.
+
+<!-- /hwthinker-store-links -->
+
+
 ![1](./assets/1.png)
 
 Board ESP8266 (ESP-12F) dengan satu relay 10A, langsung disuplai dari AC 220V (tidak perlu adaptor DC terpisah) — cocok untuk kontrol saklar lampu atau peralatan rumah tangga lewat WiFi. Relay dikendalikan lewat GPIO 15, tapi **butuh jumper manual** (lihat bagian Aktivasi Relay) karena tidak tersambung ke GPIO secara default.
